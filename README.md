@@ -1,0 +1,2 @@
+# socketio_echoback_test
+socket.ioで高密度での通信をした場合の遅延状況実験環境
